@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/SimulacionRobo/',
+  base: '/EP2CalderonMarvin/',
   build: {
     outDir: 'dist',
     assetsDir: 'assets'
